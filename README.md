@@ -8,4 +8,7 @@ Starting from the MNIST dataset this project applies image recognition using con
 * Tensorflow
 * Keras
 
-![cnn_layers](cnn.png)
+### Datasets:
+* MNIST
+* MNIST Fashion
+* CIFAR-100
