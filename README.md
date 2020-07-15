@@ -1,5 +1,5 @@
 # Project: Image Recognition
-![mnist_activations](mnist_activations.png)
+![mnist_activations](images/mnist_activations.png)
 
 ### Description:
 Starting from the MNIST dataset this project applies image recognition using convolutional neural networks (CNNs) implemented with Tensorflow and Keras.
