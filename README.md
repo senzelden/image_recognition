@@ -12,3 +12,5 @@ Starting from the MNIST dataset this project applies image recognition using con
 * [MNIST](https://en.wikipedia.org/wiki/MNIST_database)
 * [MNIST Fashion](https://github.com/zalandoresearch/fashion-mnist)
 * [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html)
+
+![mnist_fashion_predictions](images/fashion_predictions.png)
