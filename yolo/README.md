@@ -1,4 +1,4 @@
-![yolo_alte_nationalgalerie](predictions.png)
+![yolo_alte_nationalgalerie](predictions.jpg)
 
 ### Description:
 The [YOLOv3 model](https://pjreddie.com/darknet/yolo/) allows to detect objects on images.
